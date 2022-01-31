@@ -1,0 +1,62 @@
+body {
+  background-color: rgb(238, 205, 177);
+  font-family: monospace;
+  text-align: center;
+}
+
+.navigation-links {
+  margin-bottom: 60px;
+  margin-top: 20px;
+}
+
+.navigation-links a {
+  margin: 10px 20px;
+  text-decoration: none;
+  color: rgb(107, 68, 23);
+  font-weight: 700;
+}
+
+h1,
+h2 {
+  color: rgb(87, 50, 15);
+}
+
+h1 {
+  font-size: 35px;
+}
+
+.description {
+  display: block;
+  margin: 0 auto;
+  max-width: 60%;
+  font-size: 20px;
+}
+
+.description span {
+  font-size: 70px;
+}
+
+.images {
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 50px;
+}
+
+img {
+  border-radius: 6px;
+  margin: 10px 30px;
+}
+
+.paragraph-video {
+  max-width: 60%;
+  margin: 0 auto;
+  margin-bottom: 50px;
+}
+
+.paragraph-video p {
+  font-size: 18px;
+  color: rgb(158, 95, 43);
+}
+.paragraph-video h2 {
+  font-size: 25px;
+}
